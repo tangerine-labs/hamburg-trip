@@ -1,0 +1,423 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-01T11:54:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 91891167,
+  "lat": 53.5559314,
+  "lon": 9.8046635,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "name": "Blankenese (Schiffsanleger)",
+    "network": "Hamburger Verkehrsverbund",
+    "network:short": "HVV",
+    "network:wikidata": "Q896916",
+    "operator": "HADAG Seetouristik und Fährdienst",
+    "operator:short": "HADAG",
+    "operator:wikidata": "Q1562700",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 91891251,
+  "lat": 53.5447972,
+  "lon": 9.8409638,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "cargo": "passengers",
+    "ferry": "yes",
+    "name": "AIRBUS (Schiffsanleger)",
+    "name:ru": "AIRBUS (пристань)",
+    "network": "Hamburger Verkehrsverbund",
+    "network:short": "HVV",
+    "network:wikidata": "Q896916",
+    "network:wikipedia": "de:Hamburger Verkehrsverbund",
+    "operator": "HADAG Seetouristik und Fährdienst",
+    "operator:short": "HADAG",
+    "operator:wikidata": "Q1562700",
+    "operator:wikipedia": "de:HADAG Seetouristik und Fährdienst",
+    "public_transport": "stop_position",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 92214933,
+  "lat": 53.5435028,
+  "lon": 9.9142334,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "cargo": "passengers",
+    "ferry": "yes",
+    "name": "Neumühlen",
+    "network": "Hamburger Verkehrsverbund",
+    "network:short": "HVV",
+    "network:wikidata": "Q896916",
+    "operator": "HADAG Seetouristik und Fährdienst",
+    "operator:short": "HADAG",
+    "operator:wikidata": "Q1562700",
+    "public_transport": "stop_position",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 92214955,
+  "lat": 53.5439852,
+  "lon": 9.9521859,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "name": "Altona (Fischmarkt)",
+    "network": "Hamburger Verkehrsverbund",
+    "network:short": "HVV",
+    "network:wikidata": "Q896916",
+    "operator": "HADAG Seetouristik und Fährdienst",
+    "operator:short": "HADAG",
+    "operator:wikidata": "Q1562700",
+    "public_transport": "stop_position",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 99401981,
+  "lat": 53.5416025,
+  "lon": 9.8633617,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "cargo": "passengers;bicycle",
+    "ferry": "yes",
+    "name": "Rüschpark",
+    "public_transport": "stop_position",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 247090118,
+  "lat": 53.5364482,
+  "lon": 9.8789390,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "bicycle": "yes",
+    "cargo": "passengers",
+    "ferry": "yes",
+    "name": "Finkenwerder",
+    "network": "Hamburger Verkehrsverbund",
+    "network:short": "HVV",
+    "network:wikidata": "Q896916",
+    "operator": "HADAG Seetouristik und Fährdienst",
+    "operator:short": "HADAG",
+    "operator:wikidata": "Q1562700",
+    "public_transport": "stop_position",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 270634240,
+  "lat": 53.5401245,
+  "lon": 9.8853335,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "cargo": "foot;bicycle",
+    "ferry": "yes",
+    "name": "Bubendey-Ufer",
+    "network": "Hamburger Verkehrsverbund",
+    "network:short": "HVV",
+    "network:wikidata": "Q896916",
+    "operator": "HADAG Seetouristik und Fährdienst",
+    "operator:short": "HADAG",
+    "operator:wikidata": "Q1562700",
+    "public_transport": "stop_position",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 277474327,
+  "lat": 53.5430021,
+  "lon": 9.9354993,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "name": "Dockland (Fischereihafen)",
+    "public_transport": "stop_position",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 277476426,
+  "lat": 53.5281645,
+  "lon": 9.9760032,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "name": "Argentinienbrücke",
+    "network": "Hamburger Verkehrsverbund",
+    "network:short": "HVV",
+    "network:wikidata": "Q896916",
+    "network:wikipedia": "de:Hamburger Verkehrsverbund",
+    "operator": "HADAG Seetouristik und Fährdienst",
+    "operator:short": "HADAG",
+    "operator:wikidata": "Q1562700",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1809693726,
+  "lat": 53.5533789,
+  "lon": 9.9934905,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "name": "Jungfernstieg",
+    "public_transport": "stop_position",
+    "website": "https://alstertouristik.de/fat-event/alster-kreuzfahrt",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2057707811,
+  "lat": 53.5241209,
+  "lon": 9.9819294,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "cargo": "passengers;bicycle",
+    "ferry": "yes",
+    "name": "Ernst-August-Schleuse",
+    "network": "Hamburger Verkehrsverbund",
+    "network:short": "HVV",
+    "network:wikidata": "Q896916",
+    "network:wikipedia": "de:Hamburger Verkehrsverbund",
+    "operator": "HADAG Seetouristik und Fährdienst",
+    "operator:short": "HADAG",
+    "operator:wikidata": "Q1562700",
+    "public_transport": "stop_position",
+    "wikimedia_commons": "Category:Fähranleger Ernst-August-Schleuse"
+  }
+},
+{
+  "type": "node",
+  "id": 3298654753,
+  "lat": 53.5241552,
+  "lon": 9.9407111,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "cargo": "passengers",
+    "ferry": "yes",
+    "name": "Neuhof",
+    "network": "Hamburger Verkehrsverbund",
+    "network:short": "HVV",
+    "network:wikidata": "Q896916",
+    "operator": "HADAG Seetouristik und Fährdienst",
+    "operator:short": "HADAG",
+    "operator:wikidata": "Q1562700",
+    "public_transport": "stop_position",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3298659664,
+  "lat": 53.5256259,
+  "lon": 9.9372376,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "cargo": "foot;bicycle",
+    "ferry": "yes",
+    "name": "Waltershof",
+    "network": "Hamburger Verkehrsverbund",
+    "network:short": "HVV",
+    "network:wikidata": "Q896916",
+    "operator": "HADAG Seetouristik und Fährdienst",
+    "operator:short": "HADAG",
+    "operator:wikidata": "Q1562700",
+    "public_transport": "stop_position",
+    "website": "https://device.mobilitysignage.com/HADAG/URLS/E1YZ7PPA0C93556L3HQQ85OHW5GZ2H38PHXG8P2E43COZDS6S1-75.html",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3635252298,
+  "lat": 53.5368392,
+  "lon": 9.8782967,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "bicycle": "yes",
+    "cargo": "passengers",
+    "ferry": "yes",
+    "name": "Finkenwerder",
+    "network": "Hamburger Verkehrsverbund",
+    "network:short": "HVV",
+    "network:wikidata": "Q896916",
+    "operator": "HADAG Seetouristik und Fährdienst",
+    "operator:short": "HADAG",
+    "operator:wikidata": "Q1562700",
+    "public_transport": "stop_position",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3794341954,
+  "lat": 53.5441282,
+  "lon": 9.9528450,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "name": "Altona (Fischmarkt)",
+    "network": "Hamburger Verkehrsverbund",
+    "network:short": "HVV",
+    "network:wikidata": "Q896916",
+    "operator": "HADAG Seetouristik und Fährdienst",
+    "operator:short": "HADAG",
+    "operator:wikidata": "Q1562700",
+    "public_transport": "stop_position",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5758646112,
+  "lat": 53.5361930,
+  "lon": 9.8792428,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "bicycle": "yes",
+    "cargo": "passengers",
+    "ferry": "yes",
+    "name": "Finkenwerder",
+    "network": "Hamburger Verkehrsverbund",
+    "network:short": "HVV",
+    "network:wikidata": "Q896916",
+    "operator": "HADAG Seetouristik und Fährdienst",
+    "operator:short": "HADAG",
+    "operator:wikidata": "Q1562700",
+    "public_transport": "stop_position",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6902859419,
+  "lat": 53.5464706,
+  "lon": 9.8626533,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "check_date": "2026-07-09",
+    "ferry": "yes",
+    "name": "Teufelsbrück",
+    "public_transport": "stop_position",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7503774438,
+  "lat": 53.5451037,
+  "lon": 9.9693139,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "cargo": "passengers",
+    "ferry": "yes",
+    "name:signed": "no",
+    "operator": "helgoline",
+    "public_transport": "station",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11054903388,
+  "lat": 53.5438180,
+  "lon": 9.9792272,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "name": "Abfahrtsstelle Barkassen Ehlers",
+    "public_transport": "station",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11281589136,
+  "lat": 53.5455218,
+  "lon": 9.9631414,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 12046709910,
+  "lat": 53.5398720,
+  "lon": 9.9381353,
+  "tags": {
+    "access": "private",
+    "amenity": "ferry_terminal",
+    "cargo": "passengers",
+    "ferry": "yes",
+    "name": "Köhlbrandhöft (nur für Betriebsangehörige)",
+    "network": "Hamburger Verkehrsverbund",
+    "network:short": "HVV",
+    "network:wikidata": "Q896916",
+    "network:wikipedia": "de:Hamburger Verkehrsverbund",
+    "operator": "HADAG Seetouristik und Fährdienst",
+    "operator:short": "HADAG",
+    "operator:wikidata": "Q1562700",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 13004771461,
+  "lat": 53.5442057,
+  "lon": 9.9925995,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "check_date": "2025-07-16",
+    "ferry": "yes",
+    "name": "Anleger Hamburg Port Authority Große Pötte & Kleine Züge",
+    "public_transport": "station",
+    "website": "https://www.miniatur-wunderland.de/besuchen/veranstaltungen/grosse-poette-kleine-zuege/"
+  }
+},
+{
+  "type": "way",
+  "id": 392816626,
+  "center": {
+    "lat": 53.5389489,
+    "lon": 9.9974359
+  },
+  "tags": {
+    "amenity": "ferry_terminal",
+    "building:part": "transportation",
+    "ferry": "yes",
+    "name": "Cruise Center HafenCity",
+    "operator": "CGH Cruise Gate Hamburg GmbH",
+    "public_transport": "station",
+    "website": "https://www.cruisegate-hamburg.de/terminals/cruise-center-hafencity/"
+  }
+}
+
+  ]
+}

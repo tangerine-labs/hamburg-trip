@@ -1,0 +1,911 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-01T11:50:04Z",
+    "timestamp_areas_base": "2026-11-01T07:59:34Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 288513916,
+  "lat": 53.4020969,
+  "lon": 10.1746596,
+  "tags": {
+    "leisure": "pitch",
+    "name": "Skateboardanlage",
+    "sport": "skateboard"
+  }
+},
+{
+  "type": "node",
+  "id": 945161530,
+  "lat": 53.5562793,
+  "lon": 9.9909283,
+  "tags": {
+    "addr:city": "Hamburg",
+    "addr:housename": "Haus Bremen",
+    "addr:housenumber": "7",
+    "addr:postcode": "20354",
+    "addr:street": "Große Theaterstraße",
+    "contact:instagram": "mantisshop_de",
+    "name": "Mantis Skateshop",
+    "opening_hours": "Mo-Fr 12:00-19:00; Sa 10:00-19:00",
+    "phone": "+49 40 20943910",
+    "shop": "sports",
+    "sport": "skateboard",
+    "website": "https://mantisshop.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1301974062,
+  "lat": 53.5540513,
+  "lon": 9.9525615,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "skateboard"
+  }
+},
+{
+  "type": "node",
+  "id": 2721781546,
+  "lat": 53.5574341,
+  "lon": 9.9062782,
+  "tags": {
+    "leisure": "track",
+    "sport": "skateboard"
+  }
+},
+{
+  "type": "node",
+  "id": 3447451166,
+  "lat": 53.5326232,
+  "lon": 10.1474010,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "skateboard"
+  }
+},
+{
+  "type": "node",
+  "id": 7872122272,
+  "lat": 53.5664307,
+  "lon": 9.9288950,
+  "tags": {
+    "addr:city": "Hamburg",
+    "addr:housenumber": "13",
+    "addr:postcode": "22761",
+    "addr:street": "Leverkusenstraße",
+    "check_date": "2026-08-01",
+    "description": "Skateshop und Tonstudio in Hamburg – das ist Studio Longboard. Ein weltweit einmaliges Konzept verbindet die beiden Leidenschaften Musik und Skateboarding unter einem Dach.",
+    "level": "1",
+    "name": "Studio Longboard",
+    "opening_hours": "Mo-Fr 11:00-19:00, Sa 12:00-16:00",
+    "phone": "+49 40 57019634",
+    "shop": "sports",
+    "sport": "skateboard",
+    "website": "https://www.studiolongboard.com",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12188741216,
+  "lat": 53.5582852,
+  "lon": 9.9716400,
+  "tags": {
+    "addr:city": "Hamburg",
+    "addr:housenumber": "28",
+    "addr:postcode": "20357",
+    "addr:street": "Marktstraße",
+    "check_date:opening_hours": "2026-09-23",
+    "clothes": "sports",
+    "contact:instagram": "lobby_hamburg",
+    "email": "info@lobby-skateshop.de",
+    "name": "Lobby Skateshop",
+    "opening_hours": "Mo-Fr 12:00-19:00; Sa 11:00-19:00",
+    "phone": "+49 40 650 406 14",
+    "shop": "sports",
+    "sport": "skateboard",
+    "website": "https://www.lobby-skateshop.de"
+  }
+},
+{
+  "type": "node",
+  "id": 12441750369,
+  "lat": 53.6037324,
+  "lon": 9.9235297,
+  "tags": {
+    "leisure": "track",
+    "sport": "skateboard"
+  }
+},
+{
+  "type": "node",
+  "id": 12715209948,
+  "lat": 53.5652701,
+  "lon": 9.9473155,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "skateboard"
+  }
+},
+{
+  "type": "node",
+  "id": 13517702428,
+  "lat": 53.5909934,
+  "lon": 10.0378015,
+  "tags": {
+    "access": "yes",
+    "check_date": "2026-02-01",
+    "covered": "no",
+    "description": "Skatepark Barmbek Gleisdreieck",
+    "fee": "no",
+    "indoor": "no",
+    "leisure": "pitch",
+    "lit": "no",
+    "name": "Skatepark Am Gleisdreieck",
+    "sport": "skateboard",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "node",
+  "id": 13517704850,
+  "lat": 53.5812427,
+  "lon": 9.9580715,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Hamburg",
+    "check_date": "2026-02-01",
+    "covered": "no",
+    "description": "Bunker Skatepark: Flatrail, hip with ledge, 2 quarter pipes",
+    "fee": "no",
+    "indoor": "no",
+    "leisure": "pitch",
+    "lit": "no",
+    "name": "Bunker Skatepark",
+    "sport": "skateboard",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "node",
+  "id": 13670857961,
+  "lat": 53.6547494,
+  "lon": 10.0573642,
+  "tags": {
+    "access": "yes",
+    "check_date": "2026-03-23",
+    "covered": "no",
+    "fee": "no",
+    "indoor": "no",
+    "leisure": "pitch",
+    "sport": "skateboard",
+    "start_date": "2025-07-23",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 18460865,
+  "center": {
+    "lat": 53.5087981,
+    "lon": 10.1951655
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 18466060,
+  "center": {
+    "lat": 53.5087820,
+    "lon": 10.1948983
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23599433,
+  "center": {
+    "lat": 53.6548374,
+    "lon": 10.0574988
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 27278849,
+  "center": {
+    "lat": 53.5750603,
+    "lon": 9.9779802
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 44023258,
+  "center": {
+    "lat": 53.4881362,
+    "lon": 10.1691776
+  },
+  "tags": {
+    "access": "permissive",
+    "charge": "2/3 EUR/day",
+    "contact:facebook": "https://www.facebook.com/SkateparkAllermoehe",
+    "contact:website": "https://www.tsg-bergedorf.de/sportanlagen/tsg-sportpark-allermoehe/angebote-im-sportpark/",
+    "contact:youtube": "https://www.youtube.com/channel/UCW63Ag5lOrobQZ12YsimB-w",
+    "covered": "yes",
+    "description:covid19": "Anmeldung via Webseite oder phone +49-40-401136300 erforderlich.",
+    "fee": "yes",
+    "leisure": "pitch",
+    "name": "Allerfornia Skatepark Hamburg",
+    "opening_hours": "Mo-Fr 14:00-19:00; Sa,Su,PH 11:00-19:00",
+    "operator": "TSG Bergedorf von 1860 e.V.",
+    "sport": "skateboard"
+  }
+},
+{
+  "type": "way",
+  "id": 56411209,
+  "center": {
+    "lat": 53.5713921,
+    "lon": 9.9542106
+  },
+  "tags": {
+    "description": "Skatepark am Wehbers Park",
+    "leisure": "pitch",
+    "lit": "no",
+    "name": "Spielplatz Fruchtallee",
+    "sport": "skateboard",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 57044886,
+  "center": {
+    "lat": 53.5514360,
+    "lon": 10.0232012
+  },
+  "tags": {
+    "addr:city": "Hamburg",
+    "addr:country": "DE",
+    "addr:housenumber": "131",
+    "addr:postcode": "20097",
+    "addr:street": "Spaldingstraße",
+    "building": "sports_centre",
+    "building:levels": "2",
+    "email": "contact@i-punktskateland.de",
+    "leisure": "sports_centre",
+    "name": "I-Punkt Skateland",
+    "opening_hours": "Mo-Fr 15:00-20:00, Sa,Su 13:00-20:00",
+    "phone": "+49 40 234458",
+    "roof:shape": "gabled",
+    "sport": "skateboard",
+    "website": "https://i-punktskateland.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 69246370,
+  "center": {
+    "lat": 53.5899831,
+    "lon": 9.8874728
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "sport": "skateboard",
+    "surface": "tartan"
+  }
+},
+{
+  "type": "way",
+  "id": 96298886,
+  "center": {
+    "lat": 53.5793118,
+    "lon": 9.7795869
+  },
+  "tags": {
+    "leisure": "pitch",
+    "name": "Skatepark",
+    "official_name": "Harry Skatepark-Rissen",
+    "sport": "skateboard",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 123511846,
+  "center": {
+    "lat": 53.6092396,
+    "lon": 10.0547999
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "skateboard"
+  }
+},
+{
+  "type": "way",
+  "id": 125449038,
+  "center": {
+    "lat": 53.4680777,
+    "lon": 9.9564118
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 127872849,
+  "center": {
+    "lat": 53.6074471,
+    "lon": 9.9147353
+  },
+  "tags": {
+    "access": "yes",
+    "leisure": "pitch",
+    "lit": "yes",
+    "sport": "skateboard",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 164078393,
+  "center": {
+    "lat": 53.5996041,
+    "lon": 10.0965165
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 164929640,
+  "center": {
+    "lat": 53.6039960,
+    "lon": 9.9069071
+  },
+  "tags": {
+    "highway": "footway",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 165504027,
+  "center": {
+    "lat": 53.5071846,
+    "lon": 10.2074599
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "skateboard",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 166368645,
+  "center": {
+    "lat": 53.5851925,
+    "lon": 9.9504968
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 170124366,
+  "center": {
+    "lat": 53.4904490,
+    "lon": 10.1855423
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 178451638,
+  "center": {
+    "lat": 53.4950276,
+    "lon": 10.2127791
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 219011772,
+  "center": {
+    "lat": 53.4934425,
+    "lon": 10.0040226
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "name": "Skatepark Wilhelmsburg",
+    "sport": "skateboard",
+    "surface": "concrete",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 230517554,
+  "center": {
+    "lat": 53.5955256,
+    "lon": 9.8722737
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 230517557,
+  "center": {
+    "lat": 53.5955221,
+    "lon": 9.8729763
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "skateboard"
+  }
+},
+{
+  "type": "way",
+  "id": 230617900,
+  "center": {
+    "lat": 53.6029159,
+    "lon": 9.8637281
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "skateboard"
+  }
+},
+{
+  "type": "way",
+  "id": 231794809,
+  "center": {
+    "lat": 53.6524391,
+    "lon": 10.0124379
+  },
+  "tags": {
+    "description": "Halfpipe",
+    "leisure": "pitch",
+    "sport": "skateboard"
+  }
+},
+{
+  "type": "way",
+  "id": 232588407,
+  "center": {
+    "lat": 53.4737776,
+    "lon": 9.8722308
+  },
+  "tags": {
+    "access": "yes",
+    "leisure": "pitch",
+    "name": "Skateplatz Neuwiedenthal",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 236132640,
+  "center": {
+    "lat": 53.5593738,
+    "lon": 10.0859918
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 270731433,
+  "center": {
+    "lat": 53.5273925,
+    "lon": 9.7770725
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 285980105,
+  "center": {
+    "lat": 53.5366090,
+    "lon": 9.8600226
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 286397422,
+  "center": {
+    "lat": 53.5621308,
+    "lon": 9.9612903
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "name": "Skatepark an der Roten Flora",
+    "skateboard:bowl": "yes",
+    "sport": "skateboard",
+    "surface": "concrete",
+    "wheelchair": "limited",
+    "wheelchair:description": "you need to get over a little spine to drop into the skatepark. enjoy °_°"
+  }
+},
+{
+  "type": "way",
+  "id": 296668721,
+  "center": {
+    "lat": 53.6008353,
+    "lon": 10.1309520
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 329986896,
+  "center": {
+    "lat": 53.4322593,
+    "lon": 10.2737088
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 335016683,
+  "center": {
+    "lat": 53.5339284,
+    "lon": 10.1516613
+  },
+  "tags": {
+    "leisure": "pitch",
+    "name": "Skatepark Hamburg-Mümmelmannsberg",
+    "sport": "skateboard"
+  }
+},
+{
+  "type": "way",
+  "id": 353615636,
+  "center": {
+    "lat": 53.5107836,
+    "lon": 9.9900695
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 365664275,
+  "center": {
+    "lat": 53.5883944,
+    "lon": 9.9908555
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "name": "Kelle Skatepark",
+    "sport": "skateboard",
+    "surface": "concrete",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 487498821,
+  "center": {
+    "lat": 53.5812487,
+    "lon": 9.9580921
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "concrete",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 658308414,
+  "center": {
+    "lat": 53.5540384,
+    "lon": 9.9523444
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 707218963,
+  "center": {
+    "lat": 53.5513348,
+    "lon": 10.0225055
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 783945863,
+  "center": {
+    "lat": 53.4702428,
+    "lon": 9.8157779
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "skateboard",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 808110511,
+  "center": {
+    "lat": 53.5479039,
+    "lon": 9.9216438
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "noname": "yes",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 865771957,
+  "center": {
+    "lat": 53.6289130,
+    "lon": 10.1699319
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 914256479,
+  "center": {
+    "lat": 53.5828605,
+    "lon": 10.0452164
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "paving_stones",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 948220999,
+  "center": {
+    "lat": 53.5955223,
+    "lon": 9.8722561
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "skateboard"
+  }
+},
+{
+  "type": "way",
+  "id": 964703717,
+  "center": {
+    "lat": 53.5200019,
+    "lon": 9.9828561
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1044461659,
+  "center": {
+    "lat": 53.6544978,
+    "lon": 10.1082226
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "name": "Skating",
+    "sport": "skateboard",
+    "surface": "asphalt",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 1204817999,
+  "center": {
+    "lat": 53.5511708,
+    "lon": 10.0221061
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "note": "On construction",
+    "sport": "skateboard",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 1317651056,
+  "center": {
+    "lat": 53.5909836,
+    "lon": 10.0378053
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "skateboard",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 1386660523,
+  "center": {
+    "lat": 53.4873530,
+    "lon": 10.0207684
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "skateboard"
+  }
+},
+{
+  "type": "way",
+  "id": 1436301490,
+  "center": {
+    "lat": 53.5105646,
+    "lon": 9.9901183
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1483482021,
+  "center": {
+    "lat": 53.5995712,
+    "lon": 10.1841475
+  },
+  "tags": {
+    "leisure": "pitch",
+    "name": "Sportanlage Großlohering 52",
+    "opening_hours": "08:00-13:00,15:00-22:00",
+    "sport": "skateboard",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 1483482022,
+  "center": {
+    "lat": 53.5999452,
+    "lon": 10.1839774
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "name": "Sportanlage Großlohering 52",
+    "opening_hours": "08:00-13:00,15:00-22:00",
+    "sport": "skateboard",
+    "surface": "asphalt"
+  }
+}
+
+  ]
+}

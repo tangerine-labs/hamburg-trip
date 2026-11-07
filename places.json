@@ -1,5 +1,16 @@
 [
  {
+  "cat": "stay",
+  "name": "Airbnb – Lornsenstraße 12",
+  "lat": 53.5526795,
+  "lon": 9.9425999,
+  "desc": "Your stay: Lornsenstraße 12, 22767 Hamburg (Altona-Altstadt).",
+  "web": null,
+  "note": "Position geocoded from the exact building address (OpenStreetMap).",
+  "approx": false,
+  "src": "nominatim"
+ },
+ {
   "cat": "doener",
   "name": "Lokmam Köz (Schanze)",
   "lat": 53.56236,
